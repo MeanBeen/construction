@@ -1,0 +1,22 @@
+export const ImgaeData = [
+  {
+    imageUrl:
+      "https://civiltraksydney.com.au/wp-content/uploads/2021/03/icon-demolition.png",
+  },
+  {
+    imageUrl:
+      "https://civiltraksydney.com.au/wp-content/uploads/2021/03/icon-excavator.png",
+  },
+  {
+    imageUrl:
+      "https://civiltraksydney.com.au/wp-content/uploads/2021/03/icon-bulldozer.png",
+  },
+  {
+    imageUrl:
+      "https://civiltraksydney.com.au/wp-content/uploads/2021/03/icon-bulldozer2.png",
+  },
+  {
+    imageUrl:
+      "https://civiltraksydney.com.au/wp-content/uploads/2021/03/icon-excavator.png",
+  },
+];
